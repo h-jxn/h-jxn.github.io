@@ -1,0 +1,1 @@
+This website is the activist toolkit project I made for the Girls Who Code Summer Immersion Program. It's a website supporting the movement for increased inclusiveness in classroom settings throughout the US. 
